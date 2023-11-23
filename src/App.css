@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+/* Main Css */
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+  margin-bottom: 20px;
+  
+  
+  
+  
+
+}
+
+button {
+  background-color: darkslategray;
+  color: white;
+  padding: 10px 15px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: steelblue;
+  
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Add styles for the time since mount */
+.time-since-mount {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #888;
+}
+
+
+*{
+  border: #888;
+  background-color: auto;
+}
